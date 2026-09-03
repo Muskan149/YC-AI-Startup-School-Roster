@@ -10,10 +10,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone [https://github.com/Muskan149/YC-AI-Startup-School-Roster](https://github.com/Muskan149/YC-AI-Startup-School-Roster)
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd YC-AI-Startup-School-Roster
 
 # Step 3: Install the necessary dependencies.
 npm i
